@@ -17,8 +17,8 @@ My background combines industrial automation and control with software applied t
 
 | Project | Focus |
 | --- | --- |
-| [Steel Ball Detection](https://github.com/FastenSeatBeltWhileSeated/Steel-ball-detection) | Interactive OpenCV prototype for contour-based detection of steel balls, with processing controls and recorded screenshots. |
-| [OpenCV Video Overlay](https://github.com/FastenSeatBeltWhileSeated/Opencv-add-logo-on-video) | Python utility for blending a transparent PNG into a video and exporting the result. |
+| [Steel Ball Detection](https://github.com/FastenSeatBeltWhileSeated/steel-ball-detection) | Interactive OpenCV prototype for contour-based detection of steel balls, with processing controls and recorded screenshots. |
+| [OpenCV Video Overlay](https://github.com/FastenSeatBeltWhileSeated/opencv-video-overlay) | Python utility for blending a transparent PNG into a video and exporting the result. |
 
 ## Current learning focus
 
